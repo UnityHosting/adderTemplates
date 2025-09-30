@@ -5,7 +5,7 @@
         "Ref": "ServerPort",
         "Name": "Server Port",
         "Description": "Port for game traffic"
-    }
+    },
     {
         "Protocol": "Both",
         "Port": 40120,
