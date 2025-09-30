@@ -6,4 +6,11 @@
         "Name": "Server Port",
         "Description": "Port for game traffic"
     }
+    {
+        "Protocol": "Both",
+        "Port": 40120,
+        "Ref": "txAdminPort",
+        "Name": "txAdmin Port",
+        "Description": "Port for txAdmin traffic"
+    }
 ]
