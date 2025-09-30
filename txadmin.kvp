@@ -25,6 +25,7 @@ Meta.ConfigVersion=3
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
 Meta.AppIsMultiIPAware=True
+Meta.NoCommercialUsage=False
 App.DisplayName=txAdmin
 App.RootDir=./txadmin/
 App.BaseDirectory=./txadmin/
